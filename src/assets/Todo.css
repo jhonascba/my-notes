@@ -1,0 +1,29 @@
+li {
+  list-style-type: none;
+}
+
+.Todo-container {
+  background-color: #444;
+  display: flex;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  align-items: center;
+  color: #eee;
+}
+
+.Todo-container-item {
+  cursor: pointer;
+}
+
+.Todo-container-button {
+    color: royalblue;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.Todo-item-completed {
+  border-left: 6px solid royalblue;
+  border-radius: 8px;
+}

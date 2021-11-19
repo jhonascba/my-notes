@@ -1,0 +1,14 @@
+.Button {
+    height: 40px;
+    width: 18%;
+    background: royalblue;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #eee;
+}
+
+.Button:hover {
+    background: rgb(141, 135, 135);
+    color: royalblue;
+}

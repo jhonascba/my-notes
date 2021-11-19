@@ -1,0 +1,9 @@
+.App {
+  border: 2px solid royalblue;
+  min-width: 450px;
+  min-height: 300px;
+  max-width: 600px;
+  margin-top: 30px;
+  padding: 10px 50px 10px 50px;
+  border-radius: 10px;
+}
